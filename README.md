@@ -5,7 +5,7 @@
 `TODO://` User Input
 
 ### App Walk-through
-
+![FlashCardLab2](flashcardlab2.gif)
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
